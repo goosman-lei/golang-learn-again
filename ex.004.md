@@ -1,1 +1,0 @@
-### From this version, referrence http://docs.studygolang.com/doc/effective_go
